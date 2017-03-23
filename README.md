@@ -1,5 +1,7 @@
 # videojs-dvrseekbar
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/securogroup/videojs-dvrseekbar-multitech.svg)](https://greenkeeper.io/)
+
 A Video.js plugin for Seekbar with DVR support.
 
 ## Installation
